@@ -1,0 +1,152 @@
+{
+  "mod_elements": [
+    {
+      "name": "Amogus",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus"
+    },
+    {
+      "name": "ChippedSuit",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chipped_suit"
+    },
+    {
+      "name": "Blankblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blankblock"
+    },
+    {
+      "name": "MeltedSuit",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melted_suit"
+    },
+    {
+      "name": "RecipeBlank",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_blank"
+    },
+    {
+      "name": "MeltingRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melting_recipe"
+    },
+    {
+      "name": "AmogusPlate",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus_plate"
+    },
+    {
+      "name": "PlateRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plate_recipe"
+    },
+    {
+      "name": "Amogus_ArmorArmor",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Amogus_ArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "Amogus_ArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus_armor_armor_body_recipe"
+    },
+    {
+      "name": "Amogus_ArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "Amogus_ArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogus_armor_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.some_random_stuff.amogus_armor_armor_leggings": "Amogus_Armor Leggings",
+      "entity.some_random_stuff.amogus": "Amogus",
+      "block.some_random_stuff.blankblock": "Blank block",
+      "item.some_random_stuff.amogus_spawn_egg": "Amogus Spawn Egg",
+      "item.some_random_stuff.amogus_plate": "Amogus Plate",
+      "item.some_random_stuff.melted_suit": "Melted Suit",
+      "item.some_random_stuff.amogus_armor_armor_boots": "Amogus_Armor Boots",
+      "item.some_random_stuff.chipped_suit": "Chipped Suit",
+      "item.some_random_stuff.amogus_armor_armor_helmet": "Amogus_Armor Helmet",
+      "item.some_random_stuff.amogus_armor_armor_chestplate": "Amogus_Armor Chestplate"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "some_random_stuff",
+    "modName": "Some Random Stuff",
+    "version": "1.0.0",
+    "author": "arete, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.somerandomstuff",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

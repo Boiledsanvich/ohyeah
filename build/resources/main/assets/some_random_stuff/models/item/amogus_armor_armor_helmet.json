@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "some_random_stuff:items/amogus_armor_head"
+  }
+}

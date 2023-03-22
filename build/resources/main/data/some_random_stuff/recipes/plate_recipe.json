@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "some_random_stuff:melted_suit"
+    },
+    "1": {
+      "item": "some_random_stuff:melted_suit"
+    },
+    "2": {
+      "item": "some_random_stuff:melted_suit"
+    }
+  },
+  "result": {
+    "item": "some_random_stuff:amogus_plate",
+    "count": 3
+  }
+}

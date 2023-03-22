@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 60,
+  "ingredient": {
+    "item": "some_random_stuff:chipped_suit"
+  },
+  "result": "some_random_stuff:melted_suit"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "some_random_stuff:block/blankblock"
+    }
+  }
+}

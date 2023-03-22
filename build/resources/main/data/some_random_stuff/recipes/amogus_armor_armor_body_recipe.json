@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "some_random_stuff:amogus_plate"
+    },
+    "2": {
+      "item": "some_random_stuff:amogus_plate"
+    },
+    "3": {
+      "item": "some_random_stuff:amogus_plate"
+    },
+    "4": {
+      "item": "some_random_stuff:amogus_plate"
+    },
+    "5": {
+      "item": "some_random_stuff:amogus_plate"
+    },
+    "6": {
+      "item": "some_random_stuff:amogus_plate"
+    },
+    "7": {
+      "item": "some_random_stuff:amogus_plate"
+    },
+    "8": {
+      "item": "some_random_stuff:amogus_plate"
+    }
+  },
+  "result": {
+    "item": "some_random_stuff:amogus_armor_armor_chestplate",
+    "count": 1
+  }
+}

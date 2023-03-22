@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AmogusPlate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmogusPlate"
+      },
+      {
+        "value": "CUSTOM:AmogusPlate"
+      },
+      {
+        "value": "CUSTOM:AmogusPlate"
+      },
+      {
+        "value": "CUSTOM:AmogusPlate"
+      },
+      {
+        "value": "CUSTOM:AmogusPlate"
+      },
+      {
+        "value": "CUSTOM:AmogusPlate"
+      },
+      {
+        "value": "CUSTOM:AmogusPlate"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Amogus_ArmorArmor.body"
+    },
+    "name": "amogus_armor_armor_body_recipe",
+    "namespace": "mod"
+  }
+}
